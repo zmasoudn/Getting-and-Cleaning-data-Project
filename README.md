@@ -16,12 +16,19 @@ Aditional data info:
 
 Files used:
 	features.txt
+	
 	X_test.txt
+	
 	Y_test.txt
+	
 	X_train.txt
+	
 	Y_train.txt
+	
 	subject_train.txt
+	
 	subject_test.txt
+	
 	activity_labels.txt
 
 R Packages used:
